@@ -107,9 +107,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punith-krishna-keepudi-390114297/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punithkrishnakeepudi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punithkrishna147@gmail.com)
 
 </div>
 
@@ -119,7 +119,7 @@ me.say_hi()
 
 ### 💬 Robotics Quote
 
-> *"The goal is not to build a robot that thinks like a human — but one that works like one."*
+> *"The goal is not to build a robot that thinks like a human but one that works like one."*
 
 ---
 
